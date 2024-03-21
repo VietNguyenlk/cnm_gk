@@ -1,0 +1,5 @@
+"start": "nodemon index"
+npm init
+npm i ejs nodemon express 
+npm i multer aws-sdk dotenv
+
