@@ -2,7 +2,4 @@
 npm init
 npm i ejs nodemon express 
 npm i multer aws-sdk dotenv
-ACCESS_KEY_ID=77777777777777777AKIAW3MEE3HYH5WZLWWF
-SECRET_ACCESS_KEY=pK5MxinNrC7tZOh7r3ANesFa7A6TWRaTXqzs7p1y
-REGION=ap-southeast-1
-S3_BUCKET_NAME=s3ongk
+
